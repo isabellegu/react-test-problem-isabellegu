@@ -16,7 +16,7 @@ export default class App extends React.Component {
       <div>
         <p>Greetings!</p>
         <p>Button goes here</p>
-        <Button> Button </Button>
+        <Button> button </Button>
 
     </div>
     );

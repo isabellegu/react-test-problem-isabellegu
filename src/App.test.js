@@ -3,7 +3,7 @@ import '@testing-library/jest-dom'
 
 // import your story from App.stories.js
 import { Default } from './App.stories.js';
-import { ClickedDisplaysThanks } from './App.stories.js'; //👈 Our stories imported here.
+import { ClickedDisplaysThanks } from './App.stories.js';
 
 
 // Add your tests here

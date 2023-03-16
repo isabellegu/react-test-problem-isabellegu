@@ -6,8 +6,6 @@ import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import { within, userEvent } from '@storybook/testing-library';
   
-// Meta data about the story and 
-// its respective cnomponent
 export default {  
     title:"App",
     component:App,
