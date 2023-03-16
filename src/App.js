@@ -1,10 +1,11 @@
 import React from 'react';
+import Button from '/workspaces/react-test-problem-isabellegu/src/ButtonComponent.js';
 
 export default class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      
+
     };
   }
 
@@ -15,7 +16,9 @@ export default class App extends React.Component {
       <div>
         <p>Greetings!</p>
         <p>Button goes here</p>
-      </div>
+        <Button> Button </Button>
+
+    </div>
     );
   }
 }
